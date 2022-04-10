@@ -1,0 +1,2 @@
+pytube==10.8.4
+moviepy==1.0.3
